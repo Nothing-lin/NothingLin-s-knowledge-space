@@ -16,7 +16,7 @@
 
 # 杂物间
 
-- [001][如何使用GitHub做一个笔记系统？](./杂物间/[Za-001]如何使用GitHub做一个笔记库？.md) 
+- 【Za-001】[如何使用GitHub做一个笔记系统？](./杂物间/如何使用GitHub做一个笔记库？.md)  ➡ ![github-pages](https://NothingLin.coding.net/p/picture/d/picture/git/raw/master/2020/12/30/20201230002845.png) [github-pages浏览](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)
 
 
 
