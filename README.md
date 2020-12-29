@@ -16,7 +16,7 @@
 
 # 杂物间
 
-- 【Za-001】[如何使用GitHub做一个笔记系统？](https://github.com/nothing-lin/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)   ➡   [github-pages浏览](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)
+- 【Za-001】[如何使用GitHub做一个笔记系统？](https://github.com/nothing-lin/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？.md)   ➡   [github-pages浏览](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)
 
 
 
