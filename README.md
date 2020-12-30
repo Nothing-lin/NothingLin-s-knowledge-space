@@ -4,7 +4,7 @@
 
 准备打算使用这个GitHub仓库来作为我的个人知识存储库。记录笔记的同时，我也是一位博客爱好者，我个人喜欢探索和发现新的博客开发框架。由于我目前还没有发现满意的博客框架或者主题，这也导致我暂时没办法有一个确定的博客站点。上面给出的博客链接是我目前比较满意的一个博客主题，现在它是我的一个个人博客标志，欢迎大家浏览。如果您需要更好的阅读体验，可以点击github pages小标签进入nothing-lin.github.io页面进行浏览。
 
-我的博客主要分享一些实用的软件工具或者网站资讯和我个人觉得比较新鲜的有关互联网的咨询。
+我的博客主要分享一些实用的软件工具或者网站资讯和我个人觉得比较新鲜的有关互联网的咨讯。
 
 > 每天进步一点点...
 
@@ -20,11 +20,25 @@
 
 <br>
 
+
+
+# 必备工具技术
+
+### Github：
+
+- 【GitHub】我能用GitHub来做什么？
+
+
+
+<br>
+
+
+
 # 杂物间
 
 - 【Za-001】[如何使用GitHub做一个笔记系统？](https://github.com/nothing-lin/NothingLin-s-knowledge-space/blob/main/杂物间/如何使用GitHub做一个笔记库？.md)
 
-    [![](https://img.shields.io/badge/github-pages浏览-teal?style=plastic&logo=Github)](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)    [![](https://img.shields.io/badge/github【推荐】-pagesCDN浏览-inactive?style=plastic&logo=Github)](https://cdn.fobzs.com/-----https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)  
+     [![](https://img.shields.io/badge/github【推荐】-pagesCDN浏览-inactive?style=plastic&logo=Github)](https://cdn.fobzs.com/-----https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)  [![](https://img.shields.io/badge/github-pages浏览-teal?style=plastic&logo=Github)](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)
 
 
 
