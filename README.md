@@ -14,7 +14,7 @@
 
  
 
-为了避免访问延迟和github图片加载不出来等不好的体验，可以点击此处访问：[NothingLin‘s-knowledge-space](https://cdn.fobzs.com/-----https://github.com/Nothing-lin/NothingLin-s-knowledge-space)
+为了避免访问延迟和github图片加载不出来等不好的体验，可以使用**谷歌浏览器**点击此处访问：[NothingLin‘s-knowledge-space](https://cdn.fobzs.com/-----https://github.com/Nothing-lin/NothingLin-s-knowledge-space)
 
 
 
