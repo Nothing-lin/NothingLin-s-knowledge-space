@@ -14,11 +14,17 @@
 
  
 
+为了避免访问延迟和github图片加载不出来等不好的体验，可以点击此处访问：[NothingLin‘s-knowledge-space](https://cdn.fobzs.com/-----https://github.com/Nothing-lin/NothingLin-s-knowledge-space)
+
+
+
+<br>
+
 # 杂物间
 
-- 【Za-001】[如何使用GitHub做一个笔记系统？](https://github.com/nothing-lin/NothingLin-s-knowledge-space/blob/main/杂物间/如何使用GitHub做一个笔记库？.md)   ➡   [github-pages浏览](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)
+- 【Za-001】[如何使用GitHub做一个笔记系统？](https://github.com/nothing-lin/NothingLin-s-knowledge-space/blob/main/杂物间/如何使用GitHub做一个笔记库？.md)
 
-
+    [![](https://img.shields.io/badge/github-pages浏览-teal?style=plastic&logo=Github)](https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)    [![](https://img.shields.io/badge/github【推荐】-pagesCDN浏览-inactive?style=plastic&logo=Github)](https://cdn.fobzs.com/-----https://nothing-lin.github.io/NothingLin-s-knowledge-space/杂物间/如何使用GitHub做一个笔记库？)  
 
 
 
