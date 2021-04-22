@@ -1,0 +1,1 @@
+http://www.ruanyifeng.com/blog/2010/07/stay_foolish.html
